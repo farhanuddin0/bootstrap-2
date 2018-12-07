@@ -1,0 +1,436 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+
+ @media (max-width: 575.98px) {
+     .container {
+         width: 100%;
+     }
+
+     .column {
+         width: 100%;
+         text-align: center;
+     }
+
+     .tex {
+         text-align: center;
+     }
+
+     .logo {
+         padding: 10px;
+     }
+
+     ul {
+         padding: 0;
+         margin: 0;
+     }
+
+     .navigation {
+         padding: 15px;
+     }
+
+     button.btn {
+         margin: 10px;
+     }
+
+     .banner-text {
+         position: unset;
+         padding: 10px;
+     }
+
+     .banner-area .b-img {
+         width: 100%;
+         float: right;
+     }
+
+     .banner-area-two {
+         padding: 10px;
+         background-color: #ffffff;
+     }
+
+     .banner-text-2 {
+         font-size: 23px;
+     }
+
+     .section-one {
+         padding: 10px;
+     }
+
+     .section-one .box-1 {
+         margin: 0;
+     }
+
+     .flex-box {
+         display: unset;
+     }
+
+     .section-one h5 {
+         margin: 0;
+     }
+
+     .section-one .position {
+         position: unset;
+         padding: 0;
+     }
+
+     .border::before {
+         width: 217px;
+     }
+
+     .section-one .text {
+         margin: 0;
+         padding: 20px;
+     }
+
+     .section-one .psn-1 {
+         position: unset;
+     }
+
+     .section-one .box-2 {
+         margin: 5px 0px 0px 62px;
+     }
+
+     .column-1 {
+         padding: 10px;
+     }
+
+     .section-two ul {
+         text-align: left;
+         padding-left: 50px;
+     }
+
+     .column-2 {
+         width: 94%;
+         text-align: center;
+         padding: 10px;
+         margin: 0;
+         margin-bottom: 20px;
+     }
+
+     .call-to-action .column-3 {
+         width: 100%;
+         text-align: center;
+     }
+
+     .column-4 {
+         width: 50%;
+         text-align: center;
+     }
+
+     .border1 {
+         width: 99%;
+
+     }
+
+     .footer-area .column-5 {
+         width: 100%;
+         text-align: center;
+     }
+
+     .call-to-action {
+         height: 400px;
+     }
+
+     .call-to-action button {
+         margin-top: 10px;
+
+     }
+
+     .footer-area .txt {
+         font-size: 11px;
+     }
+
+
+
+
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+
+ @media (min-width: 576px) and (max-width: 767.98px) {
+     .container {
+         width: 100%;
+     }
+
+     .column {
+         width: 100%;
+         text-align: center;
+     }
+
+     .tex {
+         text-align: center;
+     }
+
+     .logo {
+         padding: 10px;
+     }
+
+     ul {
+         padding: 0;
+         margin: 0;
+     }
+
+     .navigation {
+         padding: 15px;
+     }
+
+     button.btn {
+         margin: 10px;
+     }
+
+     .banner-text {
+         position: unset;
+         padding: 10px;
+     }
+
+     .banner-area .b-img {
+         width: 100%;
+         float: right;
+     }
+
+     .banner-area-two {
+         padding: 10px;
+         background-color: #ffffff;
+     }
+
+     .banner-text-2 {
+         font-size: 23px;
+     }
+
+     .section-one {
+         padding: 10px;
+     }
+
+     .section-one .box-1 {
+         margin: 0;
+     }
+
+     .flex-box {
+         display: unset;
+     }
+
+     .section-one h5 {
+         margin: 0;
+     }
+
+
+     .section-one .position {
+         position: unset;
+         padding: 0;
+     }
+
+     .border::before {
+         width: 217px;
+     }
+
+     .section-one .text {
+         margin: 0;
+         padding: 20px;
+     }
+
+     .section-one .psn-1 {
+         position: unset;
+     }
+
+     .section-one .box-2 {
+         margin: 5px 0px 0px 62px;
+     }
+
+     .column-1 {
+         padding: 10px;
+     }
+
+     .section-two ul {
+         text-align: left;
+         padding-left: 50px;
+     }
+
+     .column-2 {
+         width: 94%;
+         text-align: center;
+         padding: 10px;
+         margin: 0;
+         margin-bottom: 20px;
+     }
+
+     .call-to-action .column-3 {
+         width: 100%;
+         text-align: center;
+     }
+
+     .column-4 {
+         width: 50%;
+         text-align: center;
+     }
+
+     .border1 {
+         width: 99%;
+
+     }
+
+     .footer-area .column-5 {
+         width: 100%;
+         text-align: center;
+     }
+
+     .call-to-action {
+         height: 400px;
+     }
+
+     .call-to-action button {
+         margin-top: 10px;
+
+     }
+
+     .footer-area .txt {
+         font-size: 12px;
+     }
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+
+ @media (min-width: 768px) and (max-width: 991.98px) {
+     .container {
+         width: 100%;
+     }
+
+     .column {
+         width: 100%;
+         text-align: center;
+     }
+
+     .tex {
+         text-align: center;
+     }
+
+     .logo {
+         padding: 10px;
+     }
+
+     ul {
+         padding: 0;
+         margin: 0;
+     }
+
+     .navigation {
+         padding: 15px;
+     }
+
+     button.btn {
+         margin: 10px;
+     }
+
+     .banner-text {
+         position: unset;
+         padding: 10px;
+     }
+
+     .banner-area .b-img {
+         width: 100%;
+         float: right;
+     }
+
+     .banner-area-two {
+         padding: 10px;
+         background-color: #ffffff;
+     }
+
+     .banner-text-2 {
+         font-size: 23px;
+     }
+
+     .section-one {
+         padding: 10px;
+     }
+
+     .section-one .box-1 {
+         margin: 0;
+     }
+
+     .flex-box {
+         display: unset;
+     }
+
+     .section-one h5 {
+         margin: 0;
+     }
+
+
+     .section-one .position {
+         position: unset;
+         padding: 0;
+     }
+
+     .border::before {
+         width: 217px;
+     }
+
+     .section-one .text {
+         margin: 0;
+         padding: 20px;
+     }
+
+     .section-one .psn-1 {
+         position: unset;
+     }
+
+     .section-one .box-2 {
+         margin: 5px 0px 0px 62px;
+     }
+
+     .column-1 {
+         padding: 10px;
+     }
+
+     .section-two ul {
+         text-align: left;
+         padding-left: 50px;
+     }
+
+     .column-2 {
+         width: 94%;
+         text-align: center;
+         padding: 10px;
+         margin: 0;
+         margin-bottom: 20px;
+     }
+
+     .call-to-action .column-3 {
+         width: 100%;
+         text-align: center;
+     }
+
+     .column-4 {
+         width: 50%;
+         text-align: center;
+     }
+
+     .border1 {
+         width: 99%;
+
+     }
+
+     .footer-area .column-5 {
+         width: 100%;
+         text-align: center;
+     }
+
+     .call-to-action {
+         height: 400px;
+     }
+
+     .call-to-action button {
+         margin-top: 10px;
+
+     }
+
+     .footer-area .txt {
+         font-size: 12px;
+     }
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+
+ @media (min-width: 992px) and (max-width: 1199.98px) {}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+
+ @media (min-width: 1200px) {}
